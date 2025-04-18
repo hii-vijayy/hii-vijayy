@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web developer
+I'm a Web Developer
 
 
 ## 🌐 Socials:
