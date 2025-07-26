@@ -1,11 +1,10 @@
 ### Hi there, I'm Vijay Kumar 👋
 
 - 🚀 I'm currently working on **Chargeway** ⚡ – a platform to help users find EV charging stations across India.
-- 📚 I'm currently learning **React**, **Next.js**, and **C++**.
-- 🤝 I'm looking to collaborate on **Web development and meaningful projects**.
-- 🧠 I'm looking for help with **full-stack web development and API integrations**.
-- 💬 Ask me about **web dev, or anything React-related**.
-- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/vijay-kumar-68900b231/)) or via email.
+- 📚 I'm currently learning **NodeJs**, **ExpressJs**.and **MongoDb**. 
+- 🤝 I'm looking to collaborate on **Full Stack and meaningful projects**.
+- 🧠 I'm looking for help with **Backend development and Database integrations**.
+- 📫 How to reach me: [LinkedIn]((https://www.linkedin.com/in/vijay-kumar-68900b231/)) or via email.
 - 🎯 Fun fact: I love building meaningful tech that solves real-world problems.
 
 Let's connect and build something impactful together!
